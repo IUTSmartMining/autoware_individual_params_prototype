@@ -21,12 +21,12 @@ sensor_kit_base_link:
     pitch: 0.0
     yaw: 0.0
   smrc/imu_link:
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    roll: 3.14159265359
+    x: -0.51
+    y: -0.25
+    z: -1.1
+    roll: 0.0
     pitch: 0.0
-    yaw: 3.14159265359
+    yaw: 0.0
   ars408/radar_link:
     x: 0.0
     y: 0.0
